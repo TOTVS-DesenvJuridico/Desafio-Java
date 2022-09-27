@@ -1,4 +1,4 @@
-# Desafio de programação - Node/Typescript
+# Desafio de programação - Java
 Para copiar o projeto realize o processo de `fork` que está detalhado mais abaixo
 
 ## Como realizar o Fork
@@ -8,11 +8,11 @@ Na página deste projeto, no canto superior direito é possivel ver
 
 Ao clicar na caixa será apresentada a página para criar a cópia do repositório para o seu perfil
 
-![Criação do Fork](./src/assets/docs/create-fork.PNG)
+![Criação do Fork](./src/assets/docs/create-fork.png)
 
 Ao confirmar a criação o Github irá criar o repositório. É possivel identificar o repositório original, pois logo abaixo do nome aparecerá qual o projeto original conforme imagem abaixo 
 
-![Novo do Repositório](./src/assets/docs/new-fork.PNG)
+![Novo do Repositório](./src/assets/docs/new-fork.png)
 
 Este será o repositório que irá subir os ajustes do projeto e a url deste repositório deve ser enviado para que possamos avaliar o que foi feito.
 
@@ -25,7 +25,7 @@ git clone https://github.com/<...>
 
 A URL do repositório pode ser encontrado no botão `code` em verde conforme imagem abaixo:
 
-![Clone do projeto no Github](./src/assets/docs/github-code-clone.PNG)
+![Clone do projeto no Github](./src/assets/docs/github-code-clone.png)
 
 
 ## Como rodar o projeto
@@ -34,7 +34,7 @@ Este projeto utiliza o JDK 11. Para executar o projeto, abra-o na IDE que estive
 ## Entrega
 A entrega desde projeto será o próprio projeto.
 
-Neste projeto temos uma base de código utilizando Node com Typescript. Este projeto tambem contem dois arquivos `.md`, sendo que o `Questoes.md` contem as solicitações voltadas para Programação e o `Questoes_SQL.md` contem as questões de SQL. 
+Neste projeto temos uma base de código utilizando Java com Gradle. Este projeto tambem contem dois arquivos `.md`, sendo que o `Questoes.md` contem as solicitações voltadas para Programação e o `Questoes_SQL.md` contem as questões de SQL. 
 
 Os ajustes solicitados no `Questoes.md` devem ser feitos no arquivo `server.ts` enquanto os exercicios do `Questoes_SQL.md` tem seu próprio espaço para serem respondidas.
 
