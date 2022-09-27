@@ -1,4 +1,4 @@
-# Desafio de programação - Node/Typescript
+# Desafio de programação - Java
 Para copiar o projeto realize o processo de `fork` que está detalhado mais abaixo
 
 ## Como realizar o Fork
@@ -34,7 +34,7 @@ Este projeto utiliza o JDK 11. Para executar o projeto, abra-o na IDE que estive
 ## Entrega
 A entrega desde projeto será o próprio projeto.
 
-Neste projeto temos uma base de código utilizando Node com Typescript. Este projeto tambem contem dois arquivos `.md`, sendo que o `Questoes.md` contem as solicitações voltadas para Programação e o `Questoes_SQL.md` contem as questões de SQL. 
+Neste projeto temos uma base de código utilizando Java com Gradle. Este projeto tambem contem dois arquivos `.md`, sendo que o `Questoes.md` contem as solicitações voltadas para Programação e o `Questoes_SQL.md` contem as questões de SQL. 
 
 Os ajustes solicitados no `Questoes.md` devem ser feitos no arquivo `server.ts` enquanto os exercicios do `Questoes_SQL.md` tem seu próprio espaço para serem respondidas.
 
