@@ -8,11 +8,11 @@ Na página deste projeto, no canto superior direito é possivel ver
 
 Ao clicar na caixa será apresentada a página para criar a cópia do repositório para o seu perfil
 
-![Criação do Fork](./src/assets/docs/create-fork.PNG)
+![Criação do Fork](./src/assets/docs/create-fork.png)
 
 Ao confirmar a criação o Github irá criar o repositório. É possivel identificar o repositório original, pois logo abaixo do nome aparecerá qual o projeto original conforme imagem abaixo 
 
-![Novo do Repositório](./src/assets/docs/new-fork.PNG)
+![Novo do Repositório](./src/assets/docs/new-fork.png)
 
 Este será o repositório que irá subir os ajustes do projeto e a url deste repositório deve ser enviado para que possamos avaliar o que foi feito.
 
@@ -25,7 +25,7 @@ git clone https://github.com/<...>
 
 A URL do repositório pode ser encontrado no botão `code` em verde conforme imagem abaixo:
 
-![Clone do projeto no Github](./src/assets/docs/github-code-clone.PNG)
+![Clone do projeto no Github](./src/assets/docs/github-code-clone.png)
 
 
 ## Como rodar o projeto
